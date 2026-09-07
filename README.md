@@ -192,6 +192,7 @@ Through this project, I learned:
 **S. Shamli Jennifer**
 
 BCA Data Science Student | Aspiring Data Analyst
+GitHub: https://github.com/ShamliJennifer
 
 ---
 
